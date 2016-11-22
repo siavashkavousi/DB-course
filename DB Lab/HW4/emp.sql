@@ -1,0 +1,17 @@
+insert into Emp (Name, Salary, DeptNo) values ('a',100,1);
+insert into Emp (Name, Salary, DeptNo) values ('b',1000,1);
+insert into Emp (Name, Salary, DeptNo) values ('c',200,1);
+insert into Emp (Name, Salary, DeptNo) values ('d',200,1);
+insert into Emp (Name, Salary, DeptNo) values ('e',1000,1);
+insert into Emp (Name, Salary, DeptNo) values ('f',150,1);
+insert into Emp (Name, Salary, DeptNo) values ('g',100,1);
+insert into Emp (Name, Salary, DeptNo) values ('h',100,1);
+insert into Emp (Name, Salary, DeptNo) values ('i',100,1);
+insert into Emp (Name, Salary, DeptNo) values ('j',100,1);
+insert into Emp (Name, Salary, DeptNo) values ('k',120,2);
+insert into Emp (Name, Salary, DeptNo) values ('l',150,2);
+insert into Emp (Name, Salary, DeptNo) values ('m',150,2);
+insert into Emp (Name, Salary, DeptNo) values ('n',150,2);
+insert into Emp (Name, Salary, DeptNo) values ('o',200,2);
+insert into Emp (Name, Salary, DeptNo) values ('p',120,2);
+insert into Emp (Name, Salary, DeptNo) values ('manager',10000,3);
